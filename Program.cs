@@ -4,4 +4,5 @@
 
 string[] array = {"1df","2fdf","3fdfd","@"};
 
-Console.WriteLine(array[0]);
+int x = array[0].Length;
+Console.WriteLine(x);
