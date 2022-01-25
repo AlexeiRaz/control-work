@@ -1,2 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿
+//  написать программу, которая из имеющегося массива строк
+// формирует массив из строк, длинна которых меньше либо равна 3 символа.
+
+string[] array = {"1df","2fdf","3fdfd","@"};
+
+Console.WriteLine(array[0]);
